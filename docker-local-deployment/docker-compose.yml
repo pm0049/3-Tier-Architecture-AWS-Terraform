@@ -1,3 +1,5 @@
+
+#In this project I use postgress 17 DB , also did changes according to region availability
 services:
   frontend:
     build:
@@ -63,3 +65,6 @@ networks:
 
 volumes:
   postgres-data:
+
+
+#In this project I use postgress 17 DB , also did changes according to region availability
