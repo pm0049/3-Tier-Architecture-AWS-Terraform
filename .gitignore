@@ -7,7 +7,7 @@ node_modules/
 *.tfstate.*
 crash.log
 
-# Terraform variable files.
+# Terraform variable files...
 *.tfvars
 !terraform.tfvars.example
 
