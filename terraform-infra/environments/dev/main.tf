@@ -1,4 +1,7 @@
 # Get current AWS account ID and region
+
+#Do changes according to your region feasibility
+
 data "aws_caller_identity" "current" {}
 data "aws_region" "current" {}
 
