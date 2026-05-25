@@ -71,6 +71,8 @@ terraform output bastion_public_ip
 ```
 <!-- ![](./assets/3-tier-deployed-website.png) -->
 
+<img width="1220" height="1049" alt="Image" src="https://github.com/user-attachments/assets/6e670db3-4d93-4e50-84d4-9e3c762eaad4" />
+
 <img width="994" height="407" alt="Image" src="https://github.com/user-attachments/assets/82117bc8-3cfe-4c9d-b8bd-fa6f939d22a6" />
 
 
