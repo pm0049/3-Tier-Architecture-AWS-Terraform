@@ -1,4 +1,4 @@
-# Goal Tracker - 3-Tier AWS Infrastructure
+# Goal Tracker - 3-Tier AWS Infra Using Terraform
 
 Highly available 3-tier application: Node.js frontend, Go backend, PostgreSQL database.
 
