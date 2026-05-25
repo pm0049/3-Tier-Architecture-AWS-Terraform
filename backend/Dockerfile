@@ -12,7 +12,7 @@ RUN go mod download
 COPY main.go ./
 
 
-# For static analysis
+# for static analysis
 # RUN go vet -v
 
 
