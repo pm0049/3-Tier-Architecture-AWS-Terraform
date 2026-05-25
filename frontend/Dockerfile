@@ -1,4 +1,5 @@
 # Build stage
+#Try to use node:18 qlpine for minumum docker image size
 FROM node:18-alpine AS build
 
 WORKDIR /app
