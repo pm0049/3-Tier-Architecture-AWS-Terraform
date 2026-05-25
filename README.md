@@ -69,8 +69,8 @@ terraform output application_url
 # Get bastion IP for SSH access
 terraform output bastion_public_ip
 ```
+<!-- ![](./assets/3-tier-deployed-website.png) -->
 
-![](./assets/3-tier-deployed-website.png)
 ## Architecture
 
 ![](./assets/AWS_3-Tier_Architecture.jpg)
